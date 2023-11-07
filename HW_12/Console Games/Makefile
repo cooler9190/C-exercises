@@ -1,0 +1,2 @@
+runApplication.out:  ObjectFiles/main.o ObjectFiles/gameMenu.o ObjectFiles/ticTacToe.o ObjectFiles/hangMan.o ObjectFiles/boggle.o 
+	@g++ ObjectFiles/main.o ObjectFiles/gameMenu.o ObjectFiles/ticTacToe.o ObjectFiles/hangMan.o ObjectFiles/boggle.o -o runApplication.out

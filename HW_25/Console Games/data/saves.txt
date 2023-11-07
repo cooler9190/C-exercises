@@ -1,0 +1,5 @@
+Player 1:nik
+Player 2:pik
+XX 
+ OX
+ OX
